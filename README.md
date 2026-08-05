@@ -12,6 +12,20 @@ The objective of your project - Stef
 How to run your code and models - Julian
   And Add interactive button
 
+  Download the Required Files: 
+    * MatLab live script
+    * materials.m file
+    * taperDroneArm.step
+    * horizontal.step
+
+  Run the MatLab code:
+    1. Open MatLab
+    2. Open the MatLab live script
+    3. Click **run** to execute the analysis
+
+  Ensure 'materials.m' is in the same folder as the live script so MatLab can access the materials properties.
+  
+
 Any required toolboxes or dependencies - Teppei
 
 How to reproduce your results - Alex
