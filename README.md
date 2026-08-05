@@ -11,6 +11,7 @@ The objective of your project - Stef
   
 How to run your code and models - Julian
   And Add interactive button
+__________________________________________________________________________________
 
   Download the Required Files: 
   
@@ -27,6 +28,7 @@ How to run your code and models - Julian
 
   Ensure 'materials.m' is in the same folder as the live script so MatLab can access the materials properties.
   
+__________________________________________________________________________________
 
 Any required toolboxes or dependencies - Teppei
 
