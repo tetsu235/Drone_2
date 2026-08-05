@@ -9,9 +9,10 @@ The objective of your project - Stef
   were evaluated through a trade study. The materials were compared based on factors such as structural performance, weight, and overall suitability 
   to determine the best material for the drone arm design.
   
+__________________________________________________________________________________
 How to run your code and models - Julian
   And Add interactive button
-__________________________________________________________________________________
+
 
   Download the Required Files: 
   
