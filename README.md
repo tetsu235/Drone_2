@@ -44,7 +44,7 @@ Toolbox and dependency required:
 * droneArmMaterials.mat
 * taperedDroneArm.step(external file, uploaded in the repository)
 * drone_ellipse.step(external file, uploaded in the repository)
-* 
+  
 __________________________________________________________________________________
 How to reproduce your results - Alex
 
