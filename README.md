@@ -33,15 +33,15 @@ How to run your code and models - Julian
 __________________________________________________________________________________
 
 Any required toolboxes or dependencies - Teppei
-
+__________________________________________________________________________________
 How to reproduce your results - Alex
 
   Software required: MATLAB R2026a
   
   Required Files:  
-    * MatLab live script
-    * materials.m file
-    * taperDroneArm.step
-    * horizontal.step
+* MatLab live script
+* materials.m file
+* taperDroneArm.step
+* horizontal.step
 
   Expected Results:
