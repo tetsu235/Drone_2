@@ -38,7 +38,13 @@ How to run your code and models - Julian
   
 __________________________________________________________________________________
 
-Any required toolboxes or dependencies - Teppei
+Any required toolboxes or dependencies
+Toolbox and dependency required:
+* MATLAB Partial Differential Equation Toolbox
+* droneArmMaterials.mat
+* taperedDroneArm.step(external file, uploaded in the repository)
+* drone_ellipse.step(external file, uploaded in the repository)
+* 
 __________________________________________________________________________________
 How to reproduce your results - Alex
 
