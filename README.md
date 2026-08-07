@@ -22,6 +22,8 @@ ________________________________________________________________________________
 
 Choose one of the following options to run the MATLAB analyses:
 
+---
+
 **Option 1: Run Using MATLAB Desktop**
 
 1: Download the Required Files
@@ -49,7 +51,7 @@ Open the Live Script for the design you want to analyze:
 
 Click **Run** to execute the entire Live Script.
 
-
+---
 
 **Option 2: Run Using MATLAB Online**
 
