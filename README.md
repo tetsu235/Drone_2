@@ -18,13 +18,11 @@ this project identifies a drone arm design that provides the best balance betwee
   
 __________________________________________________________________________________
 
-## How to Run the Code and Models
+**How to Run the Code and Models**
 
 Choose one of the following options to run the MATLAB analyses.
 
----
-
-## Option 1: Run Using MATLAB Desktop
+**Option 1: Run Using MATLAB Desktop**
 
 ### 1. Download the Required Files
 
