@@ -18,13 +18,11 @@ this project identifies a drone arm design that provides the best balance betwee
   
 __________________________________________________________________________________
 
-**How to Run the Code and Models**
+##How to Run the Code and Models
 
 Choose one of the following options to run the MATLAB analyses:
 
----
-
-**Option 1: Run Using MATLAB Desktop**
+##Option 1: Run Using MATLAB Desktop
 
 1: Download the Required Files
 
@@ -51,9 +49,7 @@ Open the Live Script for the design you want to analyze:
 
 Click **Run** to execute the entire Live Script.
 
----
-
-**Option 2: Run Using MATLAB Online**
+##Option 2: Run Using MATLAB Online
 
 MATLAB Online allows you to open and run the project in a web browser without installing MATLAB on your computer.
 
