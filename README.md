@@ -17,25 +17,36 @@ this project identifies a drone arm design that provides the best balance betwee
 
   
 __________________________________________________________________________________
-How to run your code and models - Julian
-  And Add interactive button
 
+**How to Run Code and Models**
 
-  Download the Required Files: 
+Download the Required Files: 
   
-    * MatLab live script
-    * materials.m file
-    * taperDroneArm.step
-    * horizontal.step
+  * drone1_final.mlx
+  * design2_final.mlx
+  * droneArmMaterials.mat
+  * taperedDroneArm.step
+  * drone_ellipse.step
 
-  Run the MatLab code:
+Open MatLab:
   
-    1. Open MatLab
-    2. Open the MatLab live script
-    3. Click **run** to execute the analysis
+  * Open MatLab program (i.e. MATLAB R2026a)
+  * Open MatLab online ([](https://matlab.mathworks.com)
+
+Run Files:
+
+  * Open one of the two .mlx files
+  * Click **run** to execute the analysis
 
   Ensure 'materials.m' is in the same folder as the live script so MatLab can access the materials properties.
-  
+
+### Design 1
+
+[![Open Design 1 in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=tetsu235/Drone_2&file=Design1.mlx)
+
+### Design 2
+
+[![Open Design 2 in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=tetsu235/Drone_2&file=Design2.mlx)  
 __________________________________________________________________________________
 
 Any required toolboxes or dependencies
