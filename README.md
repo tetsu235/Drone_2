@@ -20,11 +20,11 @@ ________________________________________________________________________________
 
 **How to Run the Code and Models**
 
-Choose one of the following options to run the MATLAB analyses.
+Choose one of the following options to run the MATLAB analyses:
 
 **Option 1: Run Using MATLAB Desktop**
 
-1. Download the Required Files
+1: Download the Required Files
 
 Download or clone the repository. Keep the following files in the same project folder:
 
@@ -34,13 +34,13 @@ Download or clone the repository. Keep the following files in the same project f
 - `taperedDroneArm.step`
 - `drone_ellipse.step`
 
-2. Open MATLAB
+2: Open MATLAB
 
 Open the MATLAB desktop application, such as MATLAB R2026a.
 
 Set the MATLAB **Current Folder** to the folder containing the downloaded project files.
 
-3. Run an Analysis
+3: Run an Analysis
 
 Open the Live Script for the design you want to analyze:
 
@@ -49,7 +49,6 @@ Open the Live Script for the design you want to analyze:
 
 Click **Run** to execute the entire Live Script.
 
----
 
 **Option 2: Run Using MATLAB Online**
 
