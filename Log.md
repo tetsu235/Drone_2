@@ -1,4 +1,4 @@
-# Drone Team 3 Log
+# Drone Team 2 Log
 * 7/9: Filled out and completed the Teamwork Agreement and decided on how to split up the work, deciding on two people for MATLAB and two people as well for 3D modeling of the drone arms
 * 7/12: Presented our individual drone designs and discussed and decided on two final designs to move forward with
 * 7/13-7/19: During this time period both groups met and collaborated together to work on assigned parts
