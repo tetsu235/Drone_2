@@ -18,35 +18,59 @@ this project identifies a drone arm design that provides the best balance betwee
   
 __________________________________________________________________________________
 
-**How to Run Code and Models**
+## How to Run the Code and Models
 
-Download the Required Files: 
-  
-  * drone1_final.mlx
-  * design2_final.mlx
-  * droneArmMaterials.mat
-  * taperedDroneArm.step
-  * drone_ellipse.step
+Choose one of the following options to run the MATLAB analyses.
 
-Open MatLab:
-  
-  * Open MatLab program (i.e. MATLAB R2026a)
-  * Open MatLab online ([](https://matlab.mathworks.com)
+---
 
-Run Files:
+## Option 1: Run Using MATLAB Desktop
 
-  * Open one of the two .mlx files
-  * Click **run** to execute the analysis
+### 1. Download the Required Files
 
-  Ensure 'materials.m' is in the same folder as the live script so MatLab can access the materials properties.
+Download or clone the repository. Keep the following files in the same project folder:
+
+- `drone1_final.mlx`
+- `design2_final.mlx`
+- `droneArmMaterials.mat`
+- `taperedDroneArm.step`
+- `drone_ellipse.step`
+
+### 2. Open MATLAB
+
+Open the MATLAB desktop application, such as MATLAB R2026a.
+
+Set the MATLAB **Current Folder** to the folder containing the downloaded project files.
+
+### 3. Run an Analysis
+
+Open the Live Script for the design you want to analyze:
+
+- Design 1: `drone1_final.mlx`
+- Design 2: `design2_final.mlx`
+
+Click **Run** to execute the entire Live Script.
+
+---
+
+## Option 2: Run Using MATLAB Online
+
+MATLAB Online allows you to open and run the project in a web browser without installing MATLAB on your computer.
+
+A MathWorks account may be required.
 
 ### Design 1
 
-[![Open Design 1 in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=tetsu235/Drone_2&file=Design1.mlx)
+[![Open Design 1 in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=tetsu235/Drone_2&file=drone1_final.mlx)
+
+After the repository opens, select `drone1_final.mlx` and click **Run**.
 
 ### Design 2
 
-[![Open Design 2 in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=tetsu235/Drone_2&file=Design2.mlx)  
+[![Open Design 2 in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=tetsu235/Drone_2&file=design2_final.mlx)
+
+After the repository opens, select `design2_final.mlx` and click **Run**.
+
 __________________________________________________________________________________
 
 Any required toolboxes or dependencies
