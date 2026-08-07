@@ -28,7 +28,7 @@ Choose one of the following options to run the MATLAB analyses:
 
 Download or clone the repository. Keep the following files in the same project folder:
 
-- `drone1_final.mlx`
+- `design1_final.mlx`
 - `design2_final.mlx`
 - `droneArmMaterials.mat`
 - `taperedDroneArm.step`
@@ -44,7 +44,7 @@ Download or clone the repository. Keep the following files in the same project f
 
 Open the Live Script for the design you want to analyze:
 
-- Design 1: `drone1_final.mlx`
+- Design 1: `design1_final.mlx`
 - Design 2: `design2_final.mlx`
 
 Click **Run** to execute the entire Live Script.
@@ -57,9 +57,9 @@ A MathWorks account may be required.
 
 ### Design 1
 
-[![Open Design 1 in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=tetsu235/Drone_2&file=drone1_final.mlx)
+[![Open Design 1 in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=tetsu235/Drone_2&file=design1_final.mlx)
 
-After the repository opens, select `drone1_final.mlx` and click **Run**.
+After the repository opens, select `design1_final.mlx` and click **Run**.
 
 ### Design 2
 
